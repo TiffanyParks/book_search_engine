@@ -106,4 +106,18 @@ nodemon: 2.0.3
 
 ## devDependencies: 
 * concurrently: 5.1.0
+
+## Screenshots:
+
+<img width="391" alt="image" src="https://github.com/TiffanyParks/book_search_engine/assets/126128634/20dcf68a-e24f-409d-ba20-6590f1e5c247">
+
+<img width="376" alt="image" src="https://github.com/TiffanyParks/book_search_engine/assets/126128634/e106f366-451d-458e-ac45-ac2c80865f77">
+
+<img width="365" alt="image" src="https://github.com/TiffanyParks/book_search_engine/assets/126128634/8c648a7b-ad58-44e7-a72b-45369b9ac7d6">
+
+<img width="288" alt="image" src="https://github.com/TiffanyParks/book_search_engine/assets/126128634/208726dd-3d14-4dc3-be87-cf17d08cfafd">
+
+
+
+
   
